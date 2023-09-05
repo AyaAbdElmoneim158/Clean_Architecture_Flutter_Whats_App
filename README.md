@@ -8,3 +8,8 @@ Key Features to WhatsApp :
   - Offline Support
   - Multimedia Sharing
   - Profile Management
+
+  ## \* Steps 🐾
+
+- <b> Create flutter App
+- <b> Add App Architecture  + connect with Firebase
